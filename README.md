@@ -2,8 +2,6 @@
 
 <img src="https://cdn.discordapp.com/avatars/875491402497294447/54e4808cf46edbeb5ef702d3af14087a.webp" width="150" height="150">
 
-## Clarence Bot
-
 Clarence is a multipurpose discord bot for The Innercube Discord Server.
 
 <img src="https://img.shields.io/github/workflow/status/KieranRobson/Clarence-Bot/ci?style=for-the-badge"> 
